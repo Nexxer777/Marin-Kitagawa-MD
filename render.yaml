@@ -15,5 +15,3 @@ services:
         value: Marin-MD
       - key: AUTHOR
         value: Sten-X
-      - key: MODS
-        sync: false

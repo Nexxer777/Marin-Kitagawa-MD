@@ -32,81 +32,70 @@
   
       
  
-<h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Included & Highly Recommended )
-</h4>
+<h2 align="center"> Automatic Deployment Methods 🚀</h2>
 
-<p align="center" >
-    <a href="https://repl.it/github/Sten-X/Marin-Kitagawa-MD">
-    <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
-    </a>
-    <br>     
-    <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
+<p align="center"><b>Choose your favourite platform to deploy Marin Kitagawa MD</b></p>
 
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-     
-<h4 align="center"> Deploy on Railway - ( YouTube Tutorial Included )
-</h4>
-  
 <p align="center">
-    <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
-    <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
-    </a>
-    <br>
-    <a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://www.herokucdn.com/deploy/button.png" width="180px" alt="Deploy on Heroku">
     </a>
 </p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
 <br>
-      
-<h4 align="center"> Deploy on Koyeb - ( YouTube Tutorial Included )
-</h4>
-      
+
 <p align="center">
-    <a href="https://app.koyeb.com/deploy?type=docker&image=quay.io/sten-x/marin-kitagawa-md:latest&env[PORT]=8000&env[PREFIX]=.&env[MONGODB]=&env[SESSION_ID]=&env[MODS]=&env[PACKNAME]=Marin-MD&env[AUTHOR]=Sten-X&name=marin">
-        <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="150px">
+    <a href="https://app.koyeb.com/deploy?type=docker&image=quay.io/sten-x/marin-kitagawa-md:latest&env[PORT]=8000&env[PREFIX]=.&env[MONGODB]=&env[SESSION_ID]=&env[MODS]=&env[PACKNAME]=Marin-MD&env[AUTHOR]=Sten-X&name=marin-kitagawa">
+    <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="180px" alt="Deploy on Koyeb">
     </a>
-   <br>     
-    <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p>
-
-<p align="center" >
     <br>
-    __________________________
-    <br>
+    <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube" width="130px"></a>
 </p>
-
-
 <br>
- <!--   
-<h4 align="center"> Deploy on Heroku ( Isn't Working it will be fixed soon ! )
-</h4>
 
-</p>
-
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Sten-X/Marin-Kitagawa-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
+<p align="center">
+    <a href="https://railway.app/new/template?template=https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://railway.app/button.svg" width="180px" alt="Deploy on Railway">
     </a>
+    <br>
+    <a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube" width="130px"></a>
+</p>
+<br>
 
-https://youtu.be/R-_DU73UH8Q
-</p> -->
+<p align="center">
+    <a href="https://replit.com/github/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://replit.com/badge/github/Sten-X/Marin-Kitagawa-MD" width="180px" alt="Deploy on Replit">
+    </a>
+    <br>
+    <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://img.shields.io/badge/Watch%20Tutorial-red?style=for-the-badge&logo=youtube" width="130px"></a>
+</p>
+<br>
 
+<p align="center">
+    <a href="https://render.com/deploy?repo=https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://render.com/images/deploy-to-render-button.svg" width="180px" alt="Deploy on Render">
+    </a>
+</p>
+<br>
 
+<p align="center">
+    <a href="https://glitch.com/edit/#!/import/github/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://img.shields.io/badge/Deploy%20on%20Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" width="180px" alt="Deploy on Glitch">
+    </a>
+</p>
+<br>
 
+<p align="center">
+    <a href="https://my.scalingo.com/deploy?source=https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://cdn.scalingo.com/deploy/button.svg" width="180px" alt="Deploy on Scalingo">
+    </a>
+</p>
+<br>
 
+<p align="center">
+    <a href="https://vercel.com/new/clone?repository-url=https://github.com/Sten-X/Marin-Kitagawa-MD">
+    <img src="https://vercel.com/button" width="180px" alt="Deploy on Vercel">
+    </a>
+</p>
 <br>
 <h4 align="center"> Facing Trouble? Join my WhatsApp Group for Support.
 </h4>
