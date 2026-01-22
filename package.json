@@ -39,6 +39,7 @@
     "canvacord": "^6.0.4",
     "canvas": "^3.2.1",
     "cfonts": "^3.3.1",
+    "chalk": "^4.1.2",
     "discord-mongoose-economy": "^1.2.0",
     "discord-xp": "^1.1.16",
     "dotenv": "^17.2.3",

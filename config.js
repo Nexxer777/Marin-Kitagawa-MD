@@ -11,9 +11,9 @@ if (!gg) {
 // -------------------------------------------------------------- //
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "Put Here Your MongoDB";
+global.mongodb = process.env.MONGODB || "Put Here Your Mongoodb URI";
 global.sessionId = process.env.SESSION_ID || "Marin";
-global.prefa = process.env.PREFIX || ".";
+global.prefa = process.env.PREFIX || "!";
 global.tenorApiKey = process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
 global.packname = process.env.PACKNAME || `Marin MD`;
 global.author = process.env.AUTHOR || "by: Sten-X";

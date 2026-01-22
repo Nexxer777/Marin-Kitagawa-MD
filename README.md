@@ -74,7 +74,7 @@
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/Sten-X/Marin-Kitagawa-MD:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://Sten-X001:1DER1539A@cluster0.unhfsmj.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=91846396xxxx,918340732xxx&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Marin-MD&&env[AUTHOR]=Sten-X&&name=Marin-Kitagawa-MD">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/sten-x/marin-kitagawa-md:latest:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://Sten-X001:1DER1539A@cluster0.unhfsmj.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=YourSession&&env[MODS]=91846396xxxx,918340732xxx&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Marin-MD&&env[AUTHOR]=Sten-X&&name=Marin-Kitagawa-MD">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
