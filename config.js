@@ -5,19 +5,19 @@ require("./BotCharacters.js");
 require("dotenv").config();
 let gg = process.env.MODS;
 if (!gg) {
-  gg = "84377751730";
+  gg = "918340732265,919473403280,918434573266";
 }
 
 // -------------------------------------------------------------- //
 
 global.owner = gg.split(",");
-global.mongodb = process.env.MONGODB || "mongodb+srv://Sten-X001:1DER1539A@cluster0.unhfsmj.mongodb.net/?retryWrites=true&w=majority";
-global.sessionId = process.env.SESSION_ID || "nexxer-sama";
+global.mongodb = process.env.MONGODB || "mongodb+srv://Rajdev:1DER1539A@cluster0.l14ejcz.mongodb.net/?appName=Cluster0";
+global.sessionId = process.env.SESSION_ID || "nexxer-samaa";
 global.prefa = process.env.PREFIX || "/";
 global.tenorApiKey = process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
 global.packname = process.env.PACKNAME || `Marin MD`;
 global.author = process.env.AUTHOR || "by: Sten-X";
-global.port = process.env.PORT || "8000";
+global.port = process.env.PORT || "10000";
 
 
 // ---------------------Do Not Modify this part------------------- //
