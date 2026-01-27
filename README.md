@@ -30,18 +30,16 @@
   </a>
   <br><br>
 
-<h2 align="center"> 💖 Step 0: Get Session ID (Essential) 💖 </h2>
+<h2 align="center"> Get Session ID (Essential)  </h2>
 
 <p align="center">
-  <b>Before deploying, you need a Session ID! ✨</b><br>
-  I have created a super cute & advanced panel just for you.<br>
-  It supports both <b>QR Code</b> and <b>Pairing Code</b> methods!<br>
+  <b>Generate your Session ID simply & securely! ✨</b><br>
   <br>
   <a href="https://marin-session-gen.onrender.com/">
-    <img src="https://img.shields.io/badge/GET_SESSION_ID-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white" width="250px" alt="Session Generator">
+    <img src="https://img.shields.io/badge/GET%20SESSION%20ID-7d2ae8?style=for-the-badge&logo=whatsapp&logoColor=white" width="220px" alt="Session Generator">
   </a>
   <br>
-  <small>Click the button above to generate your session instantly!</small>
+  <small>Click the GET SESSION button above to start pairing!</small>
 </p>
 
 <p align="center" >
