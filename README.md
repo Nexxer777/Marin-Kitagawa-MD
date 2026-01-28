@@ -29,9 +29,24 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Sten-X/Marin-Kitagawa-MD visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
-  
-      
- 
+
+<h2 align="center"> Get Session ID (Essential)  </h2>
+
+<p align="center">
+  <b>Generate your Session ID simply & securely! ✨</b><br>
+  <br>
+  <a href="https://marin-session-gen.onrender.com/">
+    <img src="https://img.shields.io/badge/GET%20SESSION%20ID-7d2ae8?style=for-the-badge&logo=whatsapp&logoColor=white" width="220px" alt="Session Generator">
+  </a>
+  <br>
+  <small>Click the GET SESSION button above to start pairing!</small>
+</p>
+
+<p align="center" >
+    <br>
+    __________________________
+    <br>
+</p>
 <h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Included & Highly Recommended )
 </h4>
 
@@ -90,24 +105,7 @@
 
 
 <br>
- <!--   
-<h4 align="center"> Deploy on Heroku ( Isn't Working it will be fixed soon ! )
-</h4>
-
-</p>
-
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Sten-X/Marin-Kitagawa-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
-    </a>
-
-https://youtu.be/R-_DU73UH8Q
-</p> -->
-
-
-
-
-<br>
+ <br>
 <h4 align="center"> Facing Trouble? Join my WhatsApp Group for Support.
 </h4>
 
